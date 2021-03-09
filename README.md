@@ -1,6 +1,8 @@
 ## _Despliegue en Heroku_ 
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://agile-mountain-80408.herokuapp.com/users)
 
+Si desea saber cómo solucionar problemas para desplegar un contenedor en heroku puede ver esa [guía](https://medium.com/@urbanswati/deploying-spring-boot-restapi-using-docker-maven-heroku-and-accessing-it-using-your-custom-aa04798c0112) , a mí me servicio bastante.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
