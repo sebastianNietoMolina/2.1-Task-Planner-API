@@ -1,12 +1,5 @@
 ## _Despliegue en Heroku_ 
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://ietilab4sebnieto.herokuapp.com/)
-
-## Datos para ingresar
-
-```
-  Usuario: juan@gmail.com
-  Contraseña: prueba
-```
+[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://agile-mountain-80408.herokuapp.com/users)
 
 # Getting Started with Create React App
 
