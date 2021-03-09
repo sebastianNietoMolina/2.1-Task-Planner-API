@@ -3,6 +3,8 @@
 
 Si desea saber cómo solucionar problemas para desplegar un contenedor en heroku puede ver esa [guía](https://medium.com/@urbanswati/deploying-spring-boot-restapi-using-docker-maven-heroku-and-accessing-it-using-your-custom-aa04798c0112) , a mí me servicio bastante.
 
+Si desea correr el back loclamente debe borrar una línea de código que se encuentra en la hoja [application.properties](https://github.com/sebastianNietoMolina/2.1-Task-Planner-API/blob/main/back/src/main/resources/application.properties) ya que esta variable la configura heroku, luego de haber hecho eso puede hacer gradle build y funcionara correctamente ingresando al http://localhost:8080/users.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
